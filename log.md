@@ -6,3 +6,9 @@
 
 **Thoughts:** Took too damn long.
 
+
+### Day 1: January 4, 2017 
+
+**Progress of the Day**: Started a node.js project to learn Socket.io.
+
+**Thoughts:** The documentation for Socket.io is shithouse.
