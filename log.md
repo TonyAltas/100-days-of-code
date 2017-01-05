@@ -12,3 +12,10 @@
 **Progress of the Day**: Started a node.js project to learn Socket.io.
 
 **Thoughts:** The documentation for Socket.io is shithouse.
+
+
+### Day 2: January 5, 2017 
+
+**Progress of the Day**: started new socketio project.
+
+**Thoughts:** trouble integrating express framework with socketio.
