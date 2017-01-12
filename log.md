@@ -25,3 +25,9 @@
 **Progress of the Day**: Created a small test project to learn how to scrapewebsites. 
 
 **Thoughts:** learnt some useful jquery and node modules.
+
+### Day 4: January 12, 2017 
+
+**Progress of the Day**: Start Seek Scraping Project.
+
+**Thoughts:** Slow progress.
