@@ -31,3 +31,9 @@
 **Progress of the Day**: Start Seek Scraping Project.
 
 **Thoughts:** Slow progress.
+
+### Day 5: January 13, 2017 
+
+**Progress of the Day**: Learn javascript/jquery and a bit of ajax. 
+
+**Thoughts:** interesting stuffs.
