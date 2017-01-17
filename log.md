@@ -37,3 +37,10 @@
 **Progress of the Day**: Learn javascript/jquery and a bit of ajax. 
 
 **Thoughts:** interesting stuffs.
+
+
+### Day 6: January 17, 2017 
+
+**Progress of the Day**: Attempt stripe intergration with node using the greenlock module and letsencrypt.
+
+**Thoughts:** I need to give the ec2 instance on aws a static IP.
