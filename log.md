@@ -44,3 +44,7 @@
 **Progress of the Day**: Attempt stripe intergration with node using the greenlock module and letsencrypt.
 
 **Thoughts:** I need to give the ec2 instance on aws a static IP.
+
+### Day 7: February 3, 2017 
+
+**Progress of the Day**: Display jobs scraped from seek with handlebars. Play around with Cron in node js. 
