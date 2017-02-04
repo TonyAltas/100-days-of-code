@@ -48,3 +48,7 @@
 ### Day 7: February 3, 2017 
 
 **Progress of the Day**: Display jobs scraped from seek with handlebars. Play around with Cron in node js. 
+
+### Day 8: February 4, 2017 
+
+**Progress of the Day**: Just messing around with sending emails using node.
